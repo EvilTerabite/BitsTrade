@@ -30,7 +30,7 @@ public class TradeGUI {
 
     private HashMap<GuiItem, Integer> createItems() {
         HashMap<GuiItem, Integer> items = new HashMap<>();
-
+        //TODO: Add GUI Items
         return items;
     }
 }
