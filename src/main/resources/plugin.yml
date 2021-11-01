@@ -1,0 +1,6 @@
+name: BitsTrade
+version: ${project.version}
+main: me.evilterabite.bitstrade.BitsTrade
+api-version: 1.17
+authors: [ evilterabite ]
+description: An easy trading plugin for spigot
